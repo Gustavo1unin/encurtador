@@ -128,7 +128,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     }
 }
 
-// load links for listing
+// carregar links pra lista
 $links = loadLinks();
 
 ?>
